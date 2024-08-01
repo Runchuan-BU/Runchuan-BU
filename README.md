@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Runchuan-BU/Runchuan-BU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Hi there 👋</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Runchuan-BU&label=Profile%20views&color=0e75b6&style=flat" alt="Runchuan-BU" /> </p>
+
+- Graduated from **@Boston University**
+
+- Here's my email [fengrc@bu.edu](fengrc@bu.edu)
+
+- Here's my Linkedin **[https://www.linkedin.com/in/chizhang111/](https://www.linkedin.com/in/runchuan-feng-bu/)**
+
+
+
