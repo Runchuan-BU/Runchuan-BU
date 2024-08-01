@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - Here's my email [fengrc@bu.edu](fengrc@bu.edu)
 
-- Here's my Linkedin **[https://www.linkedin.com/in/chizhang111/](https://www.linkedin.com/in/runchuan-feng-bu/)**
+- Here's my Linkedin **[https://www.linkedin.com/in/runchuan-feng-bu/](https://www.linkedin.com/in/runchuan-feng-bu/)**
 
 
 
