@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d9488,50:14b8a6,100:6366f1&height=170&section=header&text=Runchuan%20Feng&fontColor=ffffff&fontSize=52&fontAlignY=42&desc=Founding%20SDE%20%C2%B7%20AI%20Agents%20%26%20Full-Stack%20Systems&descSize=17&descAlignY=66" width="100%" alt="Runchuan Feng" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d9488,50:14b8a6,100:6366f1&height=170&section=header&text=Runchuan%20Feng&fontColor=ffffff&fontSize=52&fontAlignY=42&desc=Founding%20SDE%20%C2%B7%20AI%20Agents%20%26amp%3B%20Full-Stack%20Systems&descSize=17&descAlignY=66" width="100%" alt="Runchuan Feng" />
 
 <a href="https://www.linkedin.com/in/runchuan-feng-bu/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
