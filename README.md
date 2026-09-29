@@ -39,10 +39,9 @@ small team → I own it end to end: migrations, services, UI, and the deploy tha
 <img src="https://raw.githubusercontent.com/Runchuan-BU/Runchuan-BU/main/profile-summary-card-output/nord_dark/0-profile-details.svg" width="98%" alt="profile details" />
 
 <img src="https://raw.githubusercontent.com/Runchuan-BU/Runchuan-BU/main/profile-summary-card-output/nord_dark/3-stats.svg" width="49%" alt="stats" />
-<img src="https://raw.githubusercontent.com/Runchuan-BU/Runchuan-BU/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="49%" alt="repos per language" />
+<img src="https://raw.githubusercontent.com/Runchuan-BU/Runchuan-BU/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="49%" alt="top languages by commit" />
 
-<img src="https://raw.githubusercontent.com/Runchuan-BU/Runchuan-BU/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="49%" alt="most used languages" />
-<img src="https://raw.githubusercontent.com/Runchuan-BU/Runchuan-BU/main/profile-summary-card-output/nord_dark/4-productive-time.svg" width="49%" alt="productive time" />
+<img src="https://raw.githubusercontent.com/Runchuan-BU/Runchuan-BU/main/profile-summary-card-output/nord_dark/4-productive-time.svg" width="98%" alt="productive time" />
 
 <br /><br />
 
